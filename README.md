@@ -1,2 +1,16 @@
-# Weather-App
-A clean, modern weather application with real-time forecasts and conditions using OpenWeatherMap API. Features current temperature, feels-like, humidity, wind speed, pressure, UV index, hourly and 7-day forecasts with smooth charts, dynamic background gradients that change with weather conditions, and location-based updates via device geolocation.
+# weather_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
